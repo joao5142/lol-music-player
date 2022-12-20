@@ -1,0 +1,13 @@
+:root {
+  --gradient: linear-gradient(
+    90.35deg,
+    #4ac08f 2.49%,
+    #2fb4ff 101.2%,
+    #2fb4ff 101.2%
+  );
+
+  --green-light: #2ef4cc;
+  --dark: #14061f;
+  --gray: #c0c0c0;
+  --light: #f1f0f0;
+}

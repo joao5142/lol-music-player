@@ -1,0 +1,17 @@
+@font-face {
+  font-family: "GT Eesti Pro Display";
+  src: url("../assets/fonts/GTEestiProDisplay-Regular.ttf");
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: "GT Eesti Pro Display";
+  src: url("../assets/fonts/GTEestiProDisplay-Medium.ttf");
+  font-weight: 500;
+}
+
+@font-face {
+  font-family: "GT Eesti Pro Display";
+  src: url("../assets/fonts/GTEestiProDisplay-Bold.ttf");
+  font-weight: 700;
+}

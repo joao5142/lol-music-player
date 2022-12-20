@@ -1,0 +1,44 @@
+/*##RESET*/
+* {
+  box-sizing: border-box;
+  padding: 0px;
+  margin: 0px;
+}
+p,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+ul {
+  margin: 0px;
+  padding: 0px;
+}
+
+ul,
+ol {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+img {
+  height: auto;
+}
+
+button,
+input,
+textarea {
+  border: 0;
+  outline: none;
+}
+
+button:focus,
+input:focus,
+textarea:focus {
+  border: 0;
+  outline: none;
+}
